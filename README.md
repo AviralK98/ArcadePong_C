@@ -1,9 +1,4 @@
-# ELEC5620M Mini-Project Repository
-
 # ARCADE: TENNIS
-
-
-# Introduction:-
 
 The duties performed by the DE1-SoC board are handled by the ARM cortex A-9 processor, a 32-bit CPU. This is a fantastic solution for any design that needs exceptional performance in a low-power, cost-sensitive, single processor-based device, such as a mobile phone or tablet. Using the board and LCD screen, a mini-project was presented to help students learn about the basics of embedded systems processing and design. The subject of this mini-project is the arcade tennis game, which highlights the vintage concept while also actively demonstrating the usage of the graphics driver as well as the drivers that are responsible for creating the sound in real-time. 
 
